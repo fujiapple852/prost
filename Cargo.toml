@@ -46,7 +46,7 @@ env_logger = { version = "0.6", default-features = false }
 failure = "0.1"
 log = "0.4"
 protobuf = { version = "0", path = "protobuf" }
-quickcheck = "0.8"
+quickcheck = "1.0"
 
 [[bench]]
 name = "varint"
